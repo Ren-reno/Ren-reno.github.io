@@ -1,3 +1,7 @@
 # Portafolio · Reinaldo Codoceo Rosa
-Sitio estático (HTML + CSS + JS). Sin build.
-Despliegue: crea el repo público `Ren-reno.github.io`, sube estos archivos a `main` y activa Settings → Pages → Deploy from a branch → `main` / root.
+
+[Ver portafolio](https://ren-reno.github.io/)
+
+Sitio estático hecho con HTML, CSS y JavaScript. Puedes abrir `index.html` en el navegador para revisarlo localmente.
+
+GitHub Pages publica el sitio desde la raíz de la rama `main`. Los cambios en esa rama se despliegan automáticamente.
